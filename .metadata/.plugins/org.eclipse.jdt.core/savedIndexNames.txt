@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\green_workspace\web_lab\.metadata\.plugins\org.eclipse.jdt.core
+6391510.index
+3169612791.index
+4164229487.index
+2832643331.index
+1865797976.index
